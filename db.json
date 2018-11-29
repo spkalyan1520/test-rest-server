@@ -1,13 +1,15 @@
 {
-    "output": {
-        "LastName": [
-            {
-                "targetName": "company",
-                "match": 0.12045582383871078,
-                "label": "Company Name",
-                "type": "string",
-                "type_length": 255
-            }
-        ]
+    "api":{
+        "output": {
+            "LastName": [
+                {
+                    "targetName": "company",
+                    "match": 0.12045582383871078,
+                    "label": "Company Name",
+                    "type": "string",
+                    "type_length": 255
+                }
+            ]
+        }
     }
 }
